@@ -1,0 +1,1 @@
+edit a file on git local, add and commit the changes.. use git status for each operation and finally update the content on the github
